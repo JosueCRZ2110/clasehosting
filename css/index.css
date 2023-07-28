@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+}
+
+.banner-custom {
+    width: 300px;
+    margin: auto;
+}
+
+.banner-custom img {
+    width: 100%;
+}
